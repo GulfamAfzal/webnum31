@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/6d9d4b16-3a2a-4364-9c19-2e3732e20fda/resourceGroups/preparation/providers/Microsoft.Web/sites/gulfam",
+    "appService.deploySubpath": "."
+}
